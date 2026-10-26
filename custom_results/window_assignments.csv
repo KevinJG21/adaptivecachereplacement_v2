@@ -1,0 +1,2 @@
+unique_ratio,sequentiality,reuse_distance,frequency_concentration,inter_arrival_time,working_set_size,window_start,window_end,cluster_id,cluster_name
+0.8,0.2222222222222222,3.5,0.2,3.5,8.0,0,10,0,sequential
